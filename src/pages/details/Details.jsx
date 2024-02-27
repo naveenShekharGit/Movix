@@ -6,7 +6,7 @@ import Cast from './cast/Cast';
 import VideosSection from './videosSection.jsx/VideosSection';
 import Similar from './carousels/Similar';
 import Recommendation from './carousels/Recommendation';
-import useFetch from '../../hooks/useFetchs';
+import useFetch from '../../hooks/UseFetchs';
 
 
 const Details = () => {

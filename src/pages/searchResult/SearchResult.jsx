@@ -6,7 +6,7 @@ import "./style.scss";
 
 import MovieCard from "../../components/movieCard/MovieCard";
 import noResults from "../../assets/no-results.png";
-import { fetchDataFromApi } from "../../utils/api";
+import { fetchDataFromApi } from "../../utils/Api";
 import ContentWrapper from "../../components/contentWrapper/ContentWrapper";
 import Spinner from "../../components/spinner/Spinner";
 

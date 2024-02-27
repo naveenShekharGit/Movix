@@ -2,7 +2,7 @@ import { useState, useEffect } from "react";
 import { useSelector, useDispatch } from 'react-redux'
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 
-import {fetchDataFromApi} from "./utils/api";
+import {fetchDataFromApi} from "./utils/Api";
 import { getApiConfiguration, getGenres} from "./store/homeSlice";
 
 import Home from "./pages/home/Home";
