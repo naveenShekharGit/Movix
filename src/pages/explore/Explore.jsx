@@ -12,6 +12,7 @@ import MovieCard from "../../components/movieCard/MovieCard";
 import Spinner from "../../components/spinner/Spinner";
 import useFetch from "../../hooks/UseFetchs";
 
+
 let filters = {};
 
 const sortbyData = [
